@@ -1,0 +1,20 @@
+{
+  "name": "PracticaArchivos_Calculadora",
+  "version": "1.0.0",
+  "description": "*super calculadora*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adolfosonchiche/PracticaArchivos_Calculadora.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adolfosonchiche/PracticaArchivos_Calculadora/issues"
+  },
+  "homepage": "https://github.com/adolfosonchiche/PracticaArchivos_Calculadora#readme"
+}

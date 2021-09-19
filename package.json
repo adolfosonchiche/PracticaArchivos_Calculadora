@@ -2,8 +2,9 @@
   "name": "PracticaArchivos_Calculadora",
   "version": "1.0.0",
   "description": "*super calculadora*",
-  "main": "index.js",
+  "main": "./js/servidor.js",
   "scripts": {
+    "start": "./js/servidor.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
